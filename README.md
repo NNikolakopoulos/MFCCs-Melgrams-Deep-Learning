@@ -1,4 +1,4 @@
-# MFCCs-Melgram-s-Deep-Learning
+# MFCCs-Melgrams-Deep-Learning
 CNNs and Neural Nets for MFCCs and Melgrams classification
 
 
